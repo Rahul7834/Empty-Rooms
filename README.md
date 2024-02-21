@@ -11,6 +11,7 @@
 ## Class Diagram
 ![Images](https://github.com/Rahul7834/Python-group1/blob/main/Images/StorytellingClassdiagram.png)
 ## Description 
+Alone in a locked room, the user must investigate objects to escape.
 
 ## Code
 
