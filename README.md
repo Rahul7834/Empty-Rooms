@@ -11,8 +11,8 @@
 ## Description 
 Alone in a locked room, the user must investigate objects to escape. The game includes a number of different challenging problems thats makes the user use problem-solving skills to try an escape. The game includes a number of different objects for the user to interact with creating a more immersive experience. 
 
-## Code
+## Script
 
-## Features
+## Code
 
 ## Images
