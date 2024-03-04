@@ -1,6 +1,6 @@
 ## Members
-- Group Leader - Rahul Nair
-- Script/Planner - Penny Madsen
+- Group Leader, coder - Rahul Nair
+- Script/Planner, coder - Penny Madsen
 - Researcher - Gavin Cole
 - Coder- George Huang
 - Tester- Maximillian Hester
