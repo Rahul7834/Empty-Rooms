@@ -16,5 +16,5 @@ Alone in a locked room, the user must investigate objects and answer existential
 ## Code
 [Source Code](https://github.com/Rahul7834/Empty-Rooms/blob/main/src/StoryGame%20(1).zip)
 ## Gui
-![Images](https://github.com/Rahul7834/Empty-Rooms/blob/main/Images/Screenshot%202024-02-21%20at%2010.03.57%20AM.png)
+![Images](https://github.com/Rahul7834/Empty-Rooms/blob/main/Images/Game.png)
 
