@@ -7,7 +7,7 @@
 - Developer- Beau Child
 
 ## Class Diagram
-![Images](https://github.com/Rahul7834/Empty-Rooms/blob/main/Images/ClassDiagram.png)
+![Images](https://github.com/Rahul7834/Empty-Rooms/blob/main/Images/Screenshot%202024-03-13%20194814.png)
 ## Description 
 Alone in a locked room, the user must investigate objects and answer existential questions to escape. The game includes a number of different challenging problems thats makes the user use problem-solving skills to try to escape. The game includes a number of different objects for the user to interact with creating a more immersive experience. 
 
